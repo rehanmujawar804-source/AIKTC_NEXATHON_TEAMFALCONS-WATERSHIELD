@@ -1,0 +1,66 @@
+{
+  "total_raw_files": 4,
+  "unique_file_hashes": 3,
+  "files": [
+    {
+      "filename": "NWMP_August2025_MPCB_0.csv",
+      "file_path": "data/raw/NWMP_August2025_MPCB_0.csv",
+      "size_bytes": 109148,
+      "sha256": "A3A257D9145FD78063B381998230C05D09C59CA248A4BE607D28AAEC759E80E7",
+      "row_count": 222,
+      "column_count": 54,
+      "month": "August 2025",
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "source_agency": "Maharashtra Pollution Control Board (MPCB)",
+      "data_portal": "data.gov.in",
+      "retrieval_identity": "not available in local artifact",
+      "processing_status": "verified"
+    },
+    {
+      "filename": "NWMP_July2025 (1).csv",
+      "file_path": "data/raw/NWMP_July2025 (1).csv",
+      "size_bytes": 106803,
+      "sha256": "E3E2AE18247816E13C610D183B85CECBB170BC75ED230E092538DA0B4C9379CD",
+      "row_count": 222,
+      "column_count": 53,
+      "month": "July 2025",
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "source_agency": "Maharashtra Pollution Control Board (MPCB)",
+      "data_portal": "data.gov.in",
+      "retrieval_identity": "not available in local artifact",
+      "processing_status": "verified"
+    },
+    {
+      "filename": "NWMP_July2025.csv",
+      "file_path": "data/raw/NWMP_July2025.csv",
+      "size_bytes": 106803,
+      "sha256": "E3E2AE18247816E13C610D183B85CECBB170BC75ED230E092538DA0B4C9379CD",
+      "row_count": 222,
+      "column_count": 53,
+      "month": "July 2025",
+      "is_duplicate": true,
+      "duplicate_of": "NWMP_July2025 (1).csv",
+      "source_agency": "Maharashtra Pollution Control Board (MPCB)",
+      "data_portal": "data.gov.in",
+      "retrieval_identity": "not available in local artifact",
+      "processing_status": "verified"
+    },
+    {
+      "filename": "NWMP_September2025_MPCB_0.csv",
+      "file_path": "data/raw/NWMP_September2025_MPCB_0.csv",
+      "size_bytes": 109512,
+      "sha256": "79A153F8807527885C2469F138CD5513596EC967738EE57E83A5633E3F0A8116",
+      "row_count": 222,
+      "column_count": 54,
+      "month": "September 2025",
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "source_agency": "Maharashtra Pollution Control Board (MPCB)",
+      "data_portal": "data.gov.in",
+      "retrieval_identity": "not available in local artifact",
+      "processing_status": "verified"
+    }
+  ]
+}

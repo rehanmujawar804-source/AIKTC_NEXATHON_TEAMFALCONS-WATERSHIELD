@@ -1,0 +1,194 @@
+{
+  "evaluation_months": [
+    "July 2025",
+    "August 2025",
+    "September 2025"
+  ],
+  "recurring_stations_evaluated": 222,
+  "metadata_fields": {
+    "station_name": {
+      "raw_column": "Stn Name",
+      "july_to_august_change_count": 1,
+      "august_to_september_change_count": 0,
+      "july_to_august_changes": [
+        {
+          "stn_code": "5986",
+          "jul_value": "Haladi River, Dist-Kolhapur",
+          "aug_value": "Bhogawati River water sample at Haldi KT Weir, Tal. Karveer, Dist. Kolhapur"
+        }
+      ],
+      "august_to_september_changes": []
+    },
+    "water_body_type": {
+      "raw_column": "Type Water Body",
+      "july_to_august_change_count": 0,
+      "august_to_september_change_count": 0,
+      "july_to_august_changes": [],
+      "august_to_september_changes": []
+    },
+    "water_body_name": {
+      "raw_column": "Name Of Water Body",
+      "july_to_august_change_count": 0,
+      "august_to_september_change_count": 0,
+      "july_to_august_changes": [],
+      "august_to_september_changes": []
+    },
+    "district": {
+      "raw_column": "District",
+      "july_to_august_change_count": 0,
+      "august_to_september_change_count": 0,
+      "july_to_august_changes": [],
+      "august_to_september_changes": []
+    },
+    "latitude": {
+      "raw_column": "latitude",
+      "july_to_august_change_count": 0,
+      "august_to_september_change_count": 0,
+      "july_to_august_changes": [],
+      "august_to_september_changes": []
+    },
+    "longitude": {
+      "raw_column": "longitude",
+      "july_to_august_change_count": 0,
+      "august_to_september_change_count": 0,
+      "july_to_august_changes": [],
+      "august_to_september_changes": []
+    },
+    "use_based_class": {
+      "raw_column": "Use Based Class",
+      "july_to_august_change_count": 11,
+      "august_to_september_change_count": 14,
+      "july_to_august_changes": [
+        {
+          "stn_code": "1251",
+          "jul_value": "nan",
+          "aug_value": "No Information"
+        },
+        {
+          "stn_code": "1252",
+          "jul_value": "nan",
+          "aug_value": "No Information"
+        },
+        {
+          "stn_code": "1253",
+          "jul_value": "A (Drinking Water source without conventional treatment but after disinfection)",
+          "aug_value": "nan"
+        },
+        {
+          "stn_code": "1315",
+          "jul_value": "A (Drinking Water source without conventional treatment but after disinfection)",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)"
+        },
+        {
+          "stn_code": "2170",
+          "jul_value": "nan",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)"
+        },
+        {
+          "stn_code": "2171",
+          "jul_value": "nan",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)"
+        },
+        {
+          "stn_code": "2665",
+          "jul_value": "A (Drinking Water source without conventional treatment but after disinfection)",
+          "aug_value": "No Information"
+        },
+        {
+          "stn_code": "2666",
+          "jul_value": "nan",
+          "aug_value": "A (Drinking Water source without conventional treatment but after disinfection)"
+        },
+        {
+          "stn_code": "2700",
+          "jul_value": "nan",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)"
+        },
+        {
+          "stn_code": "2718",
+          "jul_value": "nan",
+          "aug_value": "No Information"
+        },
+        {
+          "stn_code": "5980",
+          "jul_value": "B (Outdoor bathing(Organized))",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)"
+        }
+      ],
+      "august_to_september_changes": [
+        {
+          "stn_code": "1253",
+          "aug_value": "nan",
+          "sep_value": "A (Drinking Water source without conventional treatment but after disinfection)"
+        },
+        {
+          "stn_code": "2658",
+          "aug_value": "nan",
+          "sep_value": "No Information"
+        },
+        {
+          "stn_code": "2659",
+          "aug_value": "nan",
+          "sep_value": "A (Drinking Water source without conventional treatment but after disinfection)"
+        },
+        {
+          "stn_code": "2667",
+          "aug_value": "nan",
+          "sep_value": "No Information"
+        },
+        {
+          "stn_code": "2674",
+          "aug_value": "nan",
+          "sep_value": "No Information"
+        },
+        {
+          "stn_code": "2677",
+          "aug_value": "No Information",
+          "sep_value": "A (Drinking Water source without conventional treatment but after disinfection)"
+        },
+        {
+          "stn_code": "2680",
+          "aug_value": "No Information",
+          "sep_value": "A (Drinking Water source without conventional treatment but after disinfection)"
+        },
+        {
+          "stn_code": "2710",
+          "aug_value": "nan",
+          "sep_value": "A (Drinking Water source without conventional treatment but after disinfection)"
+        },
+        {
+          "stn_code": "5979",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)",
+          "sep_value": "No Information"
+        },
+        {
+          "stn_code": "5980",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)",
+          "sep_value": "No Information"
+        },
+        {
+          "stn_code": "5981",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)",
+          "sep_value": "No Information"
+        },
+        {
+          "stn_code": "5982",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)",
+          "sep_value": "No Information"
+        },
+        {
+          "stn_code": "5983",
+          "aug_value": "E (Irrigation, industrial cooling and controlled waste)",
+          "sep_value": "No Information"
+        },
+        {
+          "stn_code": "5991",
+          "aug_value": "C (Drinking water source)",
+          "sep_value": "A (Drinking Water source without conventional treatment but after disinfection)"
+        }
+      ]
+    }
+  },
+  "use_based_class_excluded_from_features": true,
+  "use_based_class_exclusion_rationale": "Empirical audit verifies 'Use Based Class' changes across months (11 Jul->Aug, 14 Aug->Sep). It is unstable and strictly excluded from policy features."
+}

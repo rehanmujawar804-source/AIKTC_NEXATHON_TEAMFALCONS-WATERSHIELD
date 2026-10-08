@@ -1,0 +1,31 @@
+{
+  "pipeline_phase": "Phase 2 (Environment & Data Foundation)",
+  "source_agency": "Maharashtra Pollution Control Board (MPCB)",
+  "input_files": {
+    "NWMP_August2025_MPCB_0.csv": "A3A257D9145FD78063B381998230C05D09C59CA248A4BE607D28AAEC759E80E7",
+    "NWMP_July2025 (1).csv": "E3E2AE18247816E13C610D183B85CECBB170BC75ED230E092538DA0B4C9379CD",
+    "NWMP_July2025.csv": "E3E2AE18247816E13C610D183B85CECBB170BC75ED230E092538DA0B4C9379CD",
+    "NWMP_September2025_MPCB_0.csv": "79A153F8807527885C2469F138CD5513596EC967738EE57E83A5633E3F0A8116"
+  },
+  "output_artifacts": {
+    "recurring_stations_222.parquet": "56E4D5DB363E9A3A9D21162323E2F440D6519C8A83F4256BB56ED8B168D6373E",
+    "recurring_stations_222.csv": "547831D6BC0BB2B18A0348C65243417112E4C79A7B80E3F9AF0034C3569C4C13",
+    "river_cohort_172.parquet": "42C91B0914E37E6D907AADEF23C5D480FC53F00F6D2FA219FC2FFAE696EAE0EB",
+    "river_cohort_172.csv": "7DA20FC9C4B8B131DE575436D574A590F56BF53B374A4FEF21B8EFF81BC1960B",
+    "historical_state_jul_aug.parquet": "0EDF014781B8C2D4A9DB74C62E148949D2D866321FF45D8B585E30CBE0243539",
+    "historical_state_jul_aug.csv": "EA8E6F69D6BCA4D9A5B01CB0BE2E33310B7E5BC1C66E1626D09DBB96A7C0C38C",
+    "hidden_future_sep.parquet": "6A512A5BA48A500C87BB0A98EB2D1788C0E2026DA09B586145E156D4A9EFA251",
+    "hidden_future_sep.csv": "33F72E4A841C32B786587F31E706557E7895B86FC0FEF1E68B55D50ADEBFC12D",
+    "station_registry.csv": "5143699F65391C12BAA14E827FA01E49241F63BC649F6877C7AA2F33820D810A"
+  },
+  "invariants_verified": {
+    "total_recurring_stations": 222,
+    "primary_river_cohort": 172,
+    "secondary_non_river_cohort": 50,
+    "core_parameters_count": 12,
+    "historical_state_rows": 344,
+    "hidden_future_state_rows": 172,
+    "use_based_class_excluded": true,
+    "future_leakage_prevented": true
+  }
+}

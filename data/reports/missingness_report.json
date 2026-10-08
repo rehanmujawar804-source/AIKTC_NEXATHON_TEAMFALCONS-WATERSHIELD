@@ -1,0 +1,639 @@
+{
+  "evaluation_months": [
+    "August 2025",
+    "July 2025",
+    "September 2025"
+  ],
+  "recurring_station_count": 222,
+  "core_parameters_profiled": [
+    "Dissolved O2",
+    "pH",
+    "BOD",
+    "Conductivity",
+    "Nitrate N",
+    "Fecal Coliform",
+    "Total Coliform",
+    "Turbidity",
+    "COD",
+    "Amonia N",
+    "Total Dissolved Solids",
+    "Phosphate"
+  ],
+  "monthly_profiles": {
+    "August 2025": {
+      "total_recurring_rows": 222,
+      "parameter_missingness": {
+        "Dissolved O2": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "pH": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "BOD": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "Conductivity": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "Nitrate N": {
+          "missing_count": 9,
+          "valid_count": 213,
+          "missing_percentage": 4.05
+        },
+        "Fecal Coliform": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "Total Coliform": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "Turbidity": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "COD": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "Amonia N": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "Total Dissolved Solids": {
+          "missing_count": 7,
+          "valid_count": 215,
+          "missing_percentage": 3.15
+        },
+        "Phosphate": {
+          "missing_count": 11,
+          "valid_count": 211,
+          "missing_percentage": 4.95
+        }
+      },
+      "district_missingness": {
+        "Akola": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Amravati": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 2,
+          "missing_percentage": 3.33
+        },
+        "Beed": {
+          "station_count": 1,
+          "total_parameter_observations": 12,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Bhandara": {
+          "station_count": 4,
+          "total_parameter_observations": 48,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Ch. Sambhaji Nagar": {
+          "station_count": 4,
+          "total_parameter_observations": 48,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Chandrapur": {
+          "station_count": 11,
+          "total_parameter_observations": 132,
+          "missing_observations": 4,
+          "missing_percentage": 3.03
+        },
+        "Dhule": {
+          "station_count": 7,
+          "total_parameter_observations": 84,
+          "missing_observations": 24,
+          "missing_percentage": 28.57
+        },
+        "Jalgaon": {
+          "station_count": 8,
+          "total_parameter_observations": 96,
+          "missing_observations": 48,
+          "missing_percentage": 50.0
+        },
+        "Jalna": {
+          "station_count": 1,
+          "total_parameter_observations": 12,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Kolhapur": {
+          "station_count": 8,
+          "total_parameter_observations": 96,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Latur": {
+          "station_count": 2,
+          "total_parameter_observations": 24,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Mumbai": {
+          "station_count": 12,
+          "total_parameter_observations": 144,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Nagpur": {
+          "station_count": 13,
+          "total_parameter_observations": 156,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Nanded": {
+          "station_count": 3,
+          "total_parameter_observations": 36,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Nashik": {
+          "station_count": 16,
+          "total_parameter_observations": 192,
+          "missing_observations": 12,
+          "missing_percentage": 6.25
+        },
+        "Parbhani": {
+          "station_count": 2,
+          "total_parameter_observations": 24,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Pune": {
+          "station_count": 28,
+          "total_parameter_observations": 336,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Raigad": {
+          "station_count": 20,
+          "total_parameter_observations": 240,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Ratnagiri": {
+          "station_count": 9,
+          "total_parameter_observations": 108,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Sangli": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Satara": {
+          "station_count": 12,
+          "total_parameter_observations": 144,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Solapur": {
+          "station_count": 7,
+          "total_parameter_observations": 84,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Thane": {
+          "station_count": 39,
+          "total_parameter_observations": 468,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        }
+      }
+    },
+    "July 2025": {
+      "total_recurring_rows": 222,
+      "parameter_missingness": {
+        "Dissolved O2": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "pH": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "BOD": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "Conductivity": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "Nitrate N": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "Fecal Coliform": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "Total Coliform": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "Turbidity": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "COD": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "Amonia N": {
+          "missing_count": 17,
+          "valid_count": 205,
+          "missing_percentage": 7.66
+        },
+        "Total Dissolved Solids": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        },
+        "Phosphate": {
+          "missing_count": 13,
+          "valid_count": 209,
+          "missing_percentage": 5.86
+        }
+      },
+      "district_missingness": {
+        "Akola": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 1,
+          "missing_percentage": 1.67
+        },
+        "Amravati": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 15,
+          "missing_percentage": 25.0
+        },
+        "Beed": {
+          "station_count": 1,
+          "total_parameter_observations": 12,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Bhandara": {
+          "station_count": 4,
+          "total_parameter_observations": 48,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Ch. Sambhaji Nagar": {
+          "station_count": 4,
+          "total_parameter_observations": 48,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Chandrapur": {
+          "station_count": 11,
+          "total_parameter_observations": 132,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Dhule": {
+          "station_count": 7,
+          "total_parameter_observations": 84,
+          "missing_observations": 36,
+          "missing_percentage": 42.86
+        },
+        "Jalgaon": {
+          "station_count": 8,
+          "total_parameter_observations": 96,
+          "missing_observations": 84,
+          "missing_percentage": 87.5
+        },
+        "Jalna": {
+          "station_count": 1,
+          "total_parameter_observations": 12,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Kolhapur": {
+          "station_count": 8,
+          "total_parameter_observations": 96,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Latur": {
+          "station_count": 2,
+          "total_parameter_observations": 24,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Mumbai": {
+          "station_count": 12,
+          "total_parameter_observations": 144,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Nagpur": {
+          "station_count": 13,
+          "total_parameter_observations": 156,
+          "missing_observations": 24,
+          "missing_percentage": 15.38
+        },
+        "Nanded": {
+          "station_count": 3,
+          "total_parameter_observations": 36,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Nashik": {
+          "station_count": 16,
+          "total_parameter_observations": 192,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Parbhani": {
+          "station_count": 2,
+          "total_parameter_observations": 24,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Pune": {
+          "station_count": 28,
+          "total_parameter_observations": 336,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Raigad": {
+          "station_count": 20,
+          "total_parameter_observations": 240,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Ratnagiri": {
+          "station_count": 9,
+          "total_parameter_observations": 108,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Sangli": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Satara": {
+          "station_count": 12,
+          "total_parameter_observations": 144,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Solapur": {
+          "station_count": 7,
+          "total_parameter_observations": 84,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Thane": {
+          "station_count": 39,
+          "total_parameter_observations": 468,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        }
+      }
+    },
+    "September 2025": {
+      "total_recurring_rows": 222,
+      "parameter_missingness": {
+        "Dissolved O2": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "pH": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "BOD": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "Conductivity": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "Nitrate N": {
+          "missing_count": 3,
+          "valid_count": 219,
+          "missing_percentage": 1.35
+        },
+        "Fecal Coliform": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "Total Coliform": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "Turbidity": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "COD": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "Amonia N": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "Total Dissolved Solids": {
+          "missing_count": 1,
+          "valid_count": 221,
+          "missing_percentage": 0.45
+        },
+        "Phosphate": {
+          "missing_count": 3,
+          "valid_count": 219,
+          "missing_percentage": 1.35
+        }
+      },
+      "district_missingness": {
+        "Akola": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 1,
+          "missing_percentage": 1.67
+        },
+        "Amravati": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 1,
+          "missing_percentage": 1.67
+        },
+        "Beed": {
+          "station_count": 1,
+          "total_parameter_observations": 12,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Bhandara": {
+          "station_count": 4,
+          "total_parameter_observations": 48,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Ch. Sambhaji Nagar": {
+          "station_count": 4,
+          "total_parameter_observations": 48,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Chandrapur": {
+          "station_count": 11,
+          "total_parameter_observations": 132,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Dhule": {
+          "station_count": 7,
+          "total_parameter_observations": 84,
+          "missing_observations": 12,
+          "missing_percentage": 14.29
+        },
+        "Jalgaon": {
+          "station_count": 8,
+          "total_parameter_observations": 96,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Jalna": {
+          "station_count": 1,
+          "total_parameter_observations": 12,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Kolhapur": {
+          "station_count": 8,
+          "total_parameter_observations": 96,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Latur": {
+          "station_count": 2,
+          "total_parameter_observations": 24,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Mumbai": {
+          "station_count": 12,
+          "total_parameter_observations": 144,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Nagpur": {
+          "station_count": 13,
+          "total_parameter_observations": 156,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Nanded": {
+          "station_count": 3,
+          "total_parameter_observations": 36,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Nashik": {
+          "station_count": 16,
+          "total_parameter_observations": 192,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Parbhani": {
+          "station_count": 2,
+          "total_parameter_observations": 24,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Pune": {
+          "station_count": 28,
+          "total_parameter_observations": 336,
+          "missing_observations": 1,
+          "missing_percentage": 0.3
+        },
+        "Raigad": {
+          "station_count": 20,
+          "total_parameter_observations": 240,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Ratnagiri": {
+          "station_count": 9,
+          "total_parameter_observations": 108,
+          "missing_observations": 1,
+          "missing_percentage": 0.93
+        },
+        "Sangli": {
+          "station_count": 5,
+          "total_parameter_observations": 60,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Satara": {
+          "station_count": 12,
+          "total_parameter_observations": 144,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Solapur": {
+          "station_count": 7,
+          "total_parameter_observations": 84,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        },
+        "Thane": {
+          "station_count": 39,
+          "total_parameter_observations": 468,
+          "missing_observations": 0,
+          "missing_percentage": 0.0
+        }
+      }
+    }
+  }
+}
